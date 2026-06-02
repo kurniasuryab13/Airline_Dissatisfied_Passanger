@@ -31,8 +31,8 @@ quality and customer experience.
 
 # 🔗 Dataset & Tableau Link
 
-- Dataset: Airline Passenger Satisfaction Dataset (Kaggle) https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction/data?select=train.csv
-- Link Tableau: [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/views/Airline_17803682483820/PassengerDissatisfiedDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- Dataset: Airline Passenger Satisfaction Dataset [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction/data?select=train.csv) 
+- Link Tableau: Airline Dissatisfied Passenger Dashboard [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/views/Airline_17803682483820/PassengerDissatisfiedDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
