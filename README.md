@@ -92,8 +92,9 @@ Applying descriptive and inferential statistics to validate business findings.
 
 Analysis includes:
 
+- Descriptive Statistics
 - Shapiro-Wilk Normality Test
-- Point-Biserial Correlation
+- Mann-Whitney U Test
 - Chi-Square Test of Independence
 - Customer Segmentation Analysis
 - Dissatisfaction Rate Comparison
@@ -207,7 +208,7 @@ Priority customer segments:
 
 # ✍️ Author
 
-## Kurnia Surya Baskara
+## Kurnia Surya
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kurniasuryab/)
 
