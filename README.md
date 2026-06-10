@@ -21,11 +21,10 @@ quality and customer experience.
 1. [Dataset & Tableau Link](#-dataset-&-Tableau-link)
 2. [Project Overview](#-project-overview)
 3. [Methods Used](#️-methods-used)
-4. [Business Problem](#-business-problem)
-5. [List File](#-list-file)
-6. [Libraries](#-libraries)
-7. [Key Findings](#-key-findings)
-8. [Author](#-author)
+4. [List File](#-list-file)
+5. [Libraries](#-libraries)
+6. [Key Findings](#-key-findings)
+7. [Author](#-author)
 
 ---
 
@@ -123,30 +122,6 @@ Creating visualizations to understand:
 - Hypothesis Testing
 - Customer Segmentation Analysis
 - Data Visualization
-
----
-
-# 🎯 Business Problem
-
-### Main Question
-
-How can passenger dissatisfaction be reduced by improving airline service
-quality?
-
-### Analysis Breakdown
-
-1. What is the comparison between satisfied and dissatisfied passengers?
-2. Which customer characteristics have the highest dissatisfaction rate?
-   - Gender
-   - Loyalty Status
-   - Age Group
-   - Type of Travel
-   - Class
-   - Flight Distance
-3. Which in-flight services contribute most to dissatisfaction?
-4. Which airport and ground services contribute most to dissatisfaction?
-5. Does flight delay significantly affect dissatisfaction?
-6. What are the Top 5 dissatisfaction drivers?
 
 ---
 
