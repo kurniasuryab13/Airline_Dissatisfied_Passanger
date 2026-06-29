@@ -119,7 +119,6 @@ Creating visualizations to understand:
 - Business Analysis with SMART Method
 - Descriptive Statistics
 - Inferential Statistics
-- Hypothesis Testing
 - Customer Segmentation Analysis
 - Data Visualization
 
