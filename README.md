@@ -53,7 +53,7 @@ The analysis covers:
 - In-flight service evaluation
 - Ground and airport service evaluation
 - Flight delay impact analysis
-- Statistical hypothesis testing
+- Statistical analysis
 
 ---
 
