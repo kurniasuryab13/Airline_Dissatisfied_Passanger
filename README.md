@@ -12,7 +12,7 @@ This project focuses on Exploratory Data Analysis (EDA), statistical analysis,
 and business recommendations to identify the main factors driving passenger
 dissatisfaction in airline services. The analysis aims to provide actionable
 insights that help airlines reduce dissatisfaction rates by improving service
-quality and customer experience.
+quality and customer experience. This analysis is visualized in Tableau.
 
 ---
 
