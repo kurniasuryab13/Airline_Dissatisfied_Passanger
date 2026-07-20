@@ -50,7 +50,7 @@ The analysis covers:
 - Passenger satisfaction distribution
 - Customer demographic characteristics
 - Travel characteristics
-- In-flight service evaluation
+- In flight service evaluation
 - Ground and airport service evaluation
 - Flight delay impact analysis
 - Statistical analysis
@@ -107,7 +107,6 @@ Creating visualizations to understand:
 - Satisfaction distribution
 - Customer characteristics
 - Service performance
-- Delay patterns
 - Dissatisfaction drivers
 
 ---
